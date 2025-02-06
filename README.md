@@ -2,7 +2,7 @@
 Welcome to my coding journey! 
 
 ## About Me
-👨‍🎓 Pursuing my MSc in Finance at the National University of Singapore (NUS), graduating in January 2025.
+👨‍🎓 Pursuing my MSc in Finance at the National University of Singapore (NUS), graduating in January 2026.
 
 🐥 Started coding in August 2024.
 
