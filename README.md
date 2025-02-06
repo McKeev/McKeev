@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
+Welcome to my coding journey! 
 
-<!--
-**McKeev/McKeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+👨‍🎓 Pursuing my MSc in Finance at the National University of Singapore (NUS), graduating in January 2025.
 
-Here are some ideas to get you started:
+🐥 Started coding in August 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Currently based in Singapore.
+
+## Coding Experience
+### Currently Focused Exclusively on Python 🐍
+I carry out data analysis for finance, so I make use of Jupyter notebooks. A list of modules/resources I use:
+- NumPy
+- Pandas
+- Datetime
+- Matplotlib & Seaborn
+- Refinitiv (LSEG Workspace) API
+
+## 💌 Reach Out to Me
+- **LinkedIn**: [Cedric McKeever](https://www.linkedin.com/in/cedric-mckeever)
+- **Gmail**: [cedricmckeever@gmail.com](mailto:cedricmckeever@gmail.com)
+
