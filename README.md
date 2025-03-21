@@ -10,7 +10,7 @@ Welcome to my coding journey!
 
 ## Coding Experience
 ### Currently Focused Exclusively on Python 🐍
-I carry out data analysis for finance, so I make use of Jupyter notebooks. A list of modules/resources I use:
+I carry out data analysis for finance, so I make use of Jupyter notebooks. A list of packages I use:
 - NumPy
 - Pandas
 - Datetime
