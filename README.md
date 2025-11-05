@@ -1,23 +1,42 @@
-# Hi there 👋
-Welcome to my coding journey! 
+# 👋 Hi, I'm Cedric McKeever
 
-## About Me
-👨‍🎓 Pursuing my MSc in Finance at the National University of Singapore (NUS), graduating in January 2026.
+🎓 MSc Finance student at the **National University of Singapore**  
+💡 Passionate about **quantitative finance**, **machine learning**, and **systematic investing**  
+📍 Currently based in Singapore
 
-🐥 Started coding in August 2024.
+---
 
-📍 Currently based in Singapore.
+## 🧠 About Me
+I enjoy working at the intersection of markets and data science.  
+Examples of previous work:
+- **Quantitative strategy design** — regime detection, volatility targeting, and factor research.
+- **Data manipulation** — file digitization, trade analytics, portfolio tracking and database manipulation.
+- **Financial tools** — building modular, reproducible Python projects for investment analysis.
 
-## Coding Experience
-### Currently Focused Exclusively on Python 🐍
-I carry out data analysis for finance, so I make use of Jupyter notebooks. A list of packages I use:
-- NumPy
-- Pandas
-- Datetime
-- Matplotlib & Seaborn
-- Refinitiv (LSEG Workspace) API
+---
 
-## 💌 Reach Out to Me
-- **LinkedIn**: [Cedric McKeever](https://www.linkedin.com/in/cedric-mckeever)
-- **Gmail**: [cedricmckeever@gmail.com](mailto:cedricmckeever@gmail.com)
+## ⚙️ Technical Skills
+
+**Languages:** Mainly Python and SQL, but I'm also familiar with a broader array of technologies.
+**Main Libraries:** NumPy, Pandas, Polars, Matplotlib, SciPy.
+**Data APIs:** Refinitiv/LSEG, FRED, Yahoo Finance, Snowflake SQL.
+**Tools:** Git, Poetry, VS Code, macOS Terminal, Stata, Bloomberg Terminal.
+
+---
+
+## 🧾 Certifications
+- Bloomberg Market Concepts  
+- LSEG Finance Essentials
+
+---
+
+## 📈 Interests
+Systematic trading • Behavioral finance • Macro data architecture • Broker microstructure • Open-source analytics  
+
+---
+
+## 📫 Contact
+📧 [cedricmckeev@gmail.com](mailto:cedricmckeever@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/cedric-mckeever/)  
+💻 [GitHub](https://github.com/McKeev)
 
