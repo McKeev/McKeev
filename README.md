@@ -18,9 +18,10 @@ Examples of previous work:
 ## ⚙️ Technical Skills
 
 **Languages:** Mainly Python and SQL, but I'm also familiar with a broader array of technologies.
+
 **Main Libraries:** NumPy, Pandas, Polars, Matplotlib, SciPy.
+
 **Data APIs:** Refinitiv/LSEG, FRED, Yahoo Finance, Snowflake SQL.
-**Tools:** Git, Poetry, VS Code, macOS Terminal, Stata, Bloomberg Terminal.
 
 ---
 
@@ -31,7 +32,7 @@ Examples of previous work:
 ---
 
 ## 📈 Interests
-Systematic trading • Behavioral finance • Macro data architecture • Broker microstructure • Open-source analytics  
+Systematic trading • Behavioral finance • Data architecture • Analytics  
 
 ---
 
